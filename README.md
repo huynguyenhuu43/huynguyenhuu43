@@ -21,11 +21,13 @@ Advanced Data Analytics using Python (Pandas, NumPy, Matplotlib, Seaborn) and SQ
 Building and fine-tuning Machine Learning models with scikit-learn and TensorFlow.
 Hands-on experience with Big Data tools such as Apache Spark and Hadoop for large-scale data processing.
 Strong understanding of AI methodologies, including deep learning, natural language processing, and optimization.
+
 🌟 Professional Highlights
 
 Developed ML-powered predictive models for classification and trend analysis, enhancing decision-making accuracy.
 Designed and implemented scalable data pipelines for efficient data management and analysis.
 Active contributor to innovative projects in AI applications, including automation, business optimization, and user behavior analysis.
+
 🎯 Career Aspiration
 I aim to become a leader in AI innovation, developing solutions that not only advance technology but also create tangible value for businesses and society.
 
