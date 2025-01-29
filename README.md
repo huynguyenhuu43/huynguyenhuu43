@@ -9,8 +9,7 @@
 </p>
 
 > ✍ I’m a Data Analyst and Machine Learning enthusiast with a strong interest in Artificial Intelligence and its applications to solve real-world problems.
-> Nguyễn Hữu Huy | Data Analyst | Machine Learning Practitioner | AI Innovator
-Welcome to my GitHub! I’m Nguyễn Hữu Huy, a passionate Data Analyst and Machine Learning enthusiast with a clear vision to leverage Artificial Intelligence (AI) in solving complex, real-world problems.
+
 
 🚀 Who I Am
 I specialize in extracting insights from data and transforming them into actionable strategies. My expertise lies in developing data-driven solutions and designing predictive models to unlock the full potential of AI technologies.
