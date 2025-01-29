@@ -44,7 +44,7 @@ I am always open to collaborations, learning opportunities, and contributing to 
 ## 📫 How to reach me:
 
 <p align="center">
-   <a href="https://www.facebook.com/your.name9999999" alt="Facebook">
+   <a href="https://www.facebook.com/huynguyenhuu43" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://linkedin.com/in/nguyenhuuhuy" target="_blank">
@@ -78,7 +78,7 @@ I am always open to collaborations, learning opportunities, and contributing to 
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynguyenhuu43&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20Languages%20Used" alt="NguyenHuuHuy" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=NguyenHuuHuy&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Activity" alt="NguyenHuuHuy" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=huynguyenhuu43&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Activity" alt="NguyenHuuHuy" width="100%"/>
     </td>
     <td>
       <p align="center"> 
