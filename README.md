@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 <img align="right" width="64" src="[https://github.com/NguyenHuuHuy.png](https://scontent.fdad3-3.fna.fbcdn.net/v/t39.30808-1/474260306_1114485696810608_8377811255015955500_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=drMEhI9NAB0Q7kNvgH-2J6-&_nc_zt=24&_nc_ht=scontent.fdad3-3.fna&_nc_gid=AlQUb38PsuUDPs6VFcW4hpP&oh=00_AYBwp2Fi1n0xsDMNNOed8uP8uRL1C3KexWodDmUm6vs0oA&oe=679D4E92)" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
